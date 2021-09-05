@@ -1,0 +1,9 @@
+.status {
+  background-color: #fff;
+  padding: 10px;
+  display: inline-block;
+  font-weight: bold;
+  border: 1px solid #ffd7df;
+  box-shadow: 0 0 8px rgba(#ffd7df, .5);
+
+}

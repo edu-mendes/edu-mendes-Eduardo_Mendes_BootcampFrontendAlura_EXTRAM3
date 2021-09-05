@@ -1,0 +1,14 @@
+.cabecalho {
+  text-align: center;
+  color: #ffa5ae;
+}
+
+.titulo {
+  margin-bottom: 0;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+._texto {
+  margin: 0;
+}

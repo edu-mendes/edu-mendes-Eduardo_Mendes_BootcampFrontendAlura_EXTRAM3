@@ -1,7 +1,7 @@
 import React from 'react'
-import './styles.scss'
+import './styles.css'
 
-const ListaRacas = props => {
+const ListaRacas = (props) => {
   return (
     <ul className="lista-racas">
       {
